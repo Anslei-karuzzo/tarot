@@ -20,7 +20,7 @@ window.horoscopoData =
     "2025-07-11": "Áries para o dia 11: Uma faísca criativa surge em meio à rotina — aproveite.",
     "2025-07-12": "Áries para o dia 12: Preste atenção ao seu corpo: movimento e descanso em equilíbrio.",
     "2025-07-13": "Áries para o dia 13: Mantenha a mente aberta; novas ideias chegam de onde menos espera.",
-    "2025-07-14": "Áries para o dia 14: Planeje o próximo ciclo com base no que realmente importa."
+    "2025-07-14": "Áries para o dia 14: Planeje o próximo ciclo com base no que realmente importa.",
     "2025-07-15": "Áries para o dia 15: Um desafio pode testar sua paciência — respire fundo antes de agir.",
     "2025-07-16": "Áries para o dia 16: Oportunidades surgem em ambientes inesperados — esteja atento.",
     "2025-07-17": "Áries para o dia 17: Um gesto de coragem pode abrir portas importantes.",
@@ -51,7 +51,7 @@ window.horoscopoData =
     "2025-08-11": "Áries para o dia 11: A persistência será recompensada — não desista agora.",
     "2025-08-12": "Áries para o dia 12: Um dia propício para resolver pendências antigas.",
     "2025-08-13": "Áries para o dia 13: A leveza será sua melhor estratégia — evite tensões.",
-    "2025-08-14": "Áries para o dia 14: Finalize o ciclo com gratidão e prepare-se para novos começos."
+    "2025-08-14": "Áries para o dia 14: Finalize o ciclo com gratidão e prepare-se para novos começos.",
   },
   "touro": {
     "2025-06-24": "Touro para o dia 24: O aconchego do lar traz conforto e novas inspirações.",
@@ -74,7 +74,7 @@ window.horoscopoData =
     "2025-07-11": "Touro para o dia 11: Invista tempo em algo que alimente sua alma.",
     "2025-07-12": "Touro para o dia 12: A comida pode ser conforto, mas equilíbrio é essencial.",
     "2025-07-13": "Touro para o dia 13: Reavalie o que deseja manifestar no próximo ciclo.",
-    "2025-07-14": "Touro para o dia 14: Termine o período com gratidão e planos bem definidos."
+    "2025-07-14": "Touro para o dia 14: Termine o período com gratidão e planos bem definidos.",
     "2025-07-15": "Touro para o dia 15: Um convite inesperado pode trazer boas surpresas.",
     "2025-07-16": "Touro para o dia 16: Valorize o silêncio — ele pode revelar muito.",
     "2025-07-17": "Touro para o dia 17: Um gesto de generosidade retorna em forma de carinho.",
@@ -105,7 +105,7 @@ window.horoscopoData =
     "2025-08-11": "Touro para o dia 11: A organização será sua melhor aliada hoje.",
     "2025-08-12": "Touro para o dia 12: Um sonho antigo pode voltar a fazer sentido.",
     "2025-08-13": "Touro para o dia 13: Evite comparações — seu caminho é único.",
-    "2025-08-14": "Touro para o dia 14: Finalize o ciclo com serenidade e gratidão."
+    "2025-08-14": "Touro para o dia 14: Finalize o ciclo com serenidade e gratidão.",
   },
   "gemeos": {
     "2025-06-24": "Gêmeos para o dia 24: Sua mente ágil encontra soluções criativas rapidamente.",
@@ -128,7 +128,7 @@ window.horoscopoData =
     "2025-07-11": "Gêmeos para o dia 11: Um insight repentino pode mudar sua perspectiva.",
     "2025-07-12": "Gêmeos para o dia 12: Desconecte-se um pouco para recarregar as energias.",
     "2025-07-13": "Gêmeos para o dia 13: O ritmo intenso pede pausas estratégicas.",
-    "2025-07-14": "Gêmeos para o dia 14: Foque em ouvir mais; boas ideias surgem no silêncio."
+    "2025-07-14": "Gêmeos para o dia 14: Foque em ouvir mais; boas ideias surgem no silêncio.",
     "2025-07-15": "Gêmeos para o dia 15: Uma conversa inesperada pode abrir novas possibilidades.",
     "2025-07-16": "Gêmeos para o dia 16: Sua curiosidade será sua maior aliada — explore sem medo.",
     "2025-07-17": "Gêmeos para o dia 17: Evite prometer mais do que pode cumprir — seja realista.",
@@ -159,7 +159,7 @@ window.horoscopoData =
     "2025-08-11": "Gêmeos para o dia 11: Um desafio mental pode ser divertido — aceite o jogo.",
     "2025-08-12": "Gêmeos para o dia 12: Evite a pressa — o tempo certo trará melhores resultados.",
     "2025-08-13": "Gêmeos para o dia 13: Um gesto gentil pode abrir portas inesperadas.",
-    "2025-08-14": "Gêmeos para o dia 14: Finalize o ciclo com leveza e gratidão pelas descobertas."
+    "2025-08-14": "Gêmeos para o dia 14: Finalize o ciclo com leveza e gratidão pelas descobertas.",
   },
   "cancer": {
     "2025-06-24": "Câncer para o dia 24: Acolha suas emoções e compartilhe-as com quem ama.",
@@ -182,7 +182,7 @@ window.horoscopoData =
     "2025-07-11": "Câncer para the dia 11: Concentre-se em criar segurança emocional.",
     "2025-07-12": "Câncer para the dia 12: Ame-se primeiro; depois ofereça amor ao mundo.",
     "2025-07-13": "Câncer para the dia 13: Busque equilíbrio entre dar e receber carinho.",
-    "2025-07-14": "Câncer para the dia 14: Planeje rituais de bem-estar para o próximo ciclo."
+    "2025-07-14": "Câncer para the dia 14: Planeje rituais de bem-estar para o próximo ciclo.",
     "2025-07-15": "Câncer para o dia 15: Um gesto de carinho pode fortalecer laços importantes.",
     "2025-07-16": "Câncer para o dia 16: Sua intuição será uma bússola poderosa — confie nela.",
     "2025-07-17": "Câncer para o dia 17: Reflita sobre o que precisa ser deixado para trás.",
@@ -213,7 +213,7 @@ window.horoscopoData =
     "2025-08-11": "Câncer para o dia 11: A conexão com pessoas queridas será essencial.",
     "2025-08-12": "Câncer para o dia 12: Um momento de solitude pode trazer respostas profundas.",
     "2025-08-13": "Câncer para o dia 13: Evite absorver as emoções dos outros — cuide da sua energia.",
-    "2025-08-14": "Câncer para o dia 14: Finalize o ciclo com ternura e confiança no que virá."
+    "2025-08-14": "Câncer para o dia 14: Finalize o ciclo com ternura e confiança no que virá.",
   },
   "leao": {
     "2025-06-24": "Leão para o dia 24: Seu brilho natural está em alta; compartilhe criatividade.",
@@ -236,7 +236,7 @@ window.horoscopoData =
     "2025-07-11": "Leão para the dia 11: Compartilhe sua energia em causas solidárias.",
     "2025-07-12": "Leão para the dia 12: Permita-se pausar e recarregar as baterias.",
     "2025-07-13": "Leão para the dia 13: Planeje ações que deixem sua marca no mundo.",
-    "2025-07-14": "Leão para the dia 14: Conclua o ciclo com gratidão pelas parcerias."
+    "2025-07-14": "Leão para the dia 14: Conclua o ciclo com gratidão pelas parcerias.",
     "2025-07-15": "Leão para o dia 15: Um elogio sincero pode reacender sua confiança — receba com humildade.",
     "2025-07-16": "Leão para o dia 16: Sua criatividade está em alta — dê vida a uma ideia antiga.",
     "2025-07-17": "Leão para o dia 17: Evite disputas de ego — a verdadeira força está na generosidade.",
@@ -267,7 +267,7 @@ window.horoscopoData =
     "2025-08-11": "Leão para o dia 11: Sua luz interior inspira quem está ao seu redor — brilhe sem medo.",
     "2025-08-12": "Leão para o dia 12: Um desafio pode ser vencido com empatia e escuta ativa.",
     "2025-08-13": "Leão para o dia 13: Evite comparações — seu caminho é único e especial.",
-    "2025-08-14": "Leão para o dia 14: Finalize o ciclo com orgulho do que construiu e abertura para o novo."
+    "2025-08-14": "Leão para o dia 14: Finalize o ciclo com orgulho do que construiu e abertura para o novo.",
   },
   "virgem": {
     "2025-06-24": "Virgem para o dia 24: Organização e disciplina trazem produtividade.",
@@ -290,7 +290,7 @@ window.horoscopoData =
     "2025-07-11": "Virgem para o dia 11: Reavalie prioridades e ajuste sua agenda.",
     "2025-07-12": "Virgem para the dia 12: Organização financeira traz segurança.",
     "2025-07-13": "Virgem para the dia 13: Um método novo pode tornar tudo mais ágil.",
-    "2025-07-14": "Virgem para the dia 14: Encerre o ciclo cuidando do seu bem-estar."
+    "2025-07-14": "Virgem para the dia 14: Encerre o ciclo cuidando do seu bem-estar.",
     "2025-07-15": "Virgem para o dia 15: Um detalhe que você quase ignorou pode fazer toda a diferença.",
     "2025-07-16": "Virgem para o dia 16: Organize suas ideias antes de compartilhá-las — clareza é poder.",
     "2025-07-17": "Virgem para o dia 17: Um gesto de gentileza pode abrir portas inesperadas.",
@@ -321,7 +321,7 @@ window.horoscopoData =
     "2025-08-11": "Virgem para o dia 11: A comunicação clara será essencial para evitar mal-entendidos.",
     "2025-08-12": "Virgem para o dia 12: Um gesto de generosidade pode inspirar quem está ao seu redor.",
     "2025-08-13": "Virgem para o dia 13: Evite o perfeccionismo — o progresso é mais importante que a perfeição.",
-    "2025-08-14": "Virgem para o dia 14: Finalize o ciclo com serenidade e gratidão pelo que construiu."
+    "2025-08-14": "Virgem para o dia 14: Finalize o ciclo com serenidade e gratidão pelo que construiu.",
   },
   "libra": {
     "2025-06-24": "Libra para o dia 24: Busque equilíbrio entre dar e receber.",
@@ -344,7 +344,7 @@ window.horoscopoData =
     "2025-07-11": "Libra para the dia 11: Busque harmonia entre trabalho e lazer.",
     "2025-07-12": "Libra para the dia 12: A arte de ouvir é tão poderosa quanto falar.",
     "2025-07-13": "Libra para the dia 13: Apresente soluções criativas em negociações.",
-    "2025-07-14": "Libra para the dia 14: Encerre o período valorizando suas amizades."
+    "2025-07-14": "Libra para the dia 14: Encerre o período valorizando suas amizades.",
     "2025-07-15": "Libra para o dia 15: Um convite inesperado pode trazer equilíbrio entre razão e emoção.",
     "2025-07-16": "Libra para o dia 16: Evite adiar decisões importantes — a clareza virá com o diálogo.",
     "2025-07-17": "Libra para o dia 17: Um gesto de gentileza pode restaurar a harmonia em uma relação.",
@@ -375,7 +375,7 @@ window.horoscopoData =
     "2025-08-11": "Libra para o dia 11: A colaboração será mais produtiva do que a competição.",
     "2025-08-12": "Libra para o dia 12: Um gesto de gratidão pode iluminar o dia de alguém.",
     "2025-08-13": "Libra para o dia 13: A harmonia começa dentro de você — cuide do seu equilíbrio.",
-    "2025-08-14": "Libra para o dia 14: Finalize o ciclo com leveza e prepare-se para novos começos."
+    "2025-08-14": "Libra para o dia 14: Finalize o ciclo com leveza e prepare-se para novos começos.",
   },
   "escorpiao": {
     "2025-06-24": "Escorpião para o dia 24: Sua intensidade magnética atrai olhares atentos.",
@@ -398,7 +398,7 @@ window.horoscopoData =
     "2025-07-11": "Escorpião para the dia 11: Intensifique práticas que cuidem da alma.",
     "2025-07-12": "Escorpião para the dia 12: Use sua perspicácia para resolver mistérios.",
     "2025-07-13": "Escorpião para the dia 13: Compartilhe sua força de forma acolhedora.",
-    "2025-07-14": "Escorpião para the dia 14: Conclua ciclos emocionais com serenidade."
+    "2025-07-14": "Escorpião para the dia 14: Conclua ciclos emocionais com serenidade.",
     "2025-07-15": "Escorpião para o dia 15: Um segredo revelado pode mudar sua perspectiva — acolha a verdade.",
     "2025-07-16": "Escorpião para o dia 16: Sua intuição está afiada — confie nos sinais que surgirem.",
     "2025-07-17": "Escorpião para o dia 17: Um gesto de perdão pode libertar emoções antigas.",
@@ -429,7 +429,7 @@ window.horoscopoData =
     "2025-08-11": "Escorpião para o dia 11: Sua força interior será testada — mantenha-se firme.",
     "2025-08-12": "Escorpião para o dia 12: Um ciclo de cura se inicia — permita-se sentir.",
     "2025-08-13": "Escorpião para o dia 13: A verdade pode doer, mas também liberta.",
-    "2025-08-14": "Escorpião para o dia 14: Finalize o ciclo com sabedoria e prepare-se para renascer."
+    "2025-08-14": "Escorpião para o dia 14: Finalize o ciclo com sabedoria e prepare-se para renascer.",
   },
   "sagitario": {
     "2025-06-24": "Sagitário para o dia 24: Aventure-se em novos aprendizados.",
@@ -452,7 +452,7 @@ window.horoscopoData =
     "2025-07-11": "Sagitário para the dia 11: Deseje algo grande; o universo coopera.",
     "2025-07-12": "Sagitário para the dia 12: Compartilhe seu otimismo em grupos.",
     "2025-07-13": "Sagitário para the dia 13: Reflexões filosóficas trazem clareza.",
-    "2025-07-14": "Sagitário para the dia 14: Encerre o período com gratidão e novos sonhos."
+    "2025-07-14": "Sagitário para the dia 14: Encerre o período com gratidão e novos sonhos.",
     "2025-07-15": "Sagitário para o dia 15: Um novo aprendizado pode abrir caminhos inesperados — mantenha a mente aberta.",
     "2025-07-16": "Sagitário para o dia 16: Aventure-se fora da rotina — a liberdade te inspira.",
     "2025-07-17": "Sagitário para o dia 17: Um diálogo sincero pode fortalecer uma amizade antiga.",
@@ -483,7 +483,7 @@ window.horoscopoData =
     "2025-08-11": "Sagitário para o dia 11: A autenticidade será sua maior força — seja você mesmo.",
     "2025-08-12": "Sagitário para o dia 12: Um encontro pode trazer inspiração e novas ideias.",
     "2025-08-13": "Sagitário para o dia 13: A liberdade de ser quem é será seu maior presente.",
-    "2025-08-14": "Sagitário para o dia 14: Finalize o ciclo com gratidão e prepare-se para novas aventuras."
+    "2025-08-14": "Sagitário para o dia 14: Finalize o ciclo com gratidão e prepare-se para novas aventuras.",
   },
   "capricornio": {
     "2025-06-24": "Capricórnio para o dia 24: Disciplina e foco trazem resultados sólidos.",
@@ -506,7 +506,7 @@ window.horoscopoData =
     "2025-07-11": "Capricórnio para the dia 11: Planeje o futuro com base em dados concretos.",
     "2025-07-12": "Capricórnio para the dia 12: Busque apoio em quem já trilhou o caminho.",
     "2025-07-13": "Capricórnio para the dia 13: Ajuste estratégias para aumentar a eficiência.",
-    "2025-07-14": "Capricórnio para the dia 14: Termine o ciclo valorizando seu progresso."
+    "2025-07-14": "Capricórnio para the dia 14: Termine o ciclo valorizando seu progresso.",
     "2025-07-15": "Capricórnio para o dia 15: Um plano antigo pode ganhar nova força — revise com atenção.",
     "2025-07-16": "Capricórnio para o dia 16: A disciplina será sua aliada para superar obstáculos.",
     "2025-07-17": "Capricórnio para o dia 17: Um gesto de reconhecimento pode renovar sua motivação.",
@@ -537,7 +537,7 @@ window.horoscopoData =
     "2025-08-11": "Capricórnio para o dia 11: A comunicação clara será essencial para evitar mal-entendidos.",
     "2025-08-12": "Capricórnio para o dia 12: Um gesto de generosidade pode inspirar quem está ao seu redor.",
     "2025-08-13": "Capricórnio para o dia 13: Evite o perfeccionismo — o progresso é mais importante que a perfeição.",
-    "2025-08-14": "Capricórnio para o dia 14: Finalize o ciclo com serenidade e confiança no que construiu."
+    "2025-08-14": "Capricórnio para o dia 14: Finalize o ciclo com serenidade e confiança no que construiu.",
   },
   "aquario": {
     "2025-06-24": "Aquário para o dia 24: Ideias inovadoras surgem de forma espontânea.",
@@ -560,7 +560,7 @@ window.horoscopoData =
     "2025-07-11": "Aquário para the dia 11: Projete soluções criativas para problemas comuns.",
     "2025-07-12": "Aquário para the dia 12: Sua visão inspira quem acredita no futuro.",
     "2025-07-13": "Aquário para the dia 13: Colabore em causas que tenham impacto social.",
-    "2025-07-14": "Aquário para the dia 14: Conclua o período com inovação e solidariedade."
+    "2025-07-14": "Aquário para the dia 14: Conclua o período com inovação e solidariedade.",
     "2025-07-15": "Aquário para o dia 15: Um novo ponto de vista pode transformar sua forma de agir — abrace a mudança.",
     "2025-07-16": "Aquário para o dia 16: A criatividade está em alta — compartilhe suas ideias com quem confia.",
     "2025-07-17": "Aquário para o dia 17: Um gesto de solidariedade pode fortalecer laços importantes.",
@@ -591,7 +591,7 @@ window.horoscopoData =
     "2025-08-11": "Aquário para o dia 11: A autenticidade será sua maior força — confie em si.",
     "2025-08-12": "Aquário para o dia 12: Um encontro pode trazer novas ideias e conexões.",
     "2025-08-13": "Aquário para o dia 13: A liberdade de ser quem você é será seu maior presente.",
-    "2025-08-14": "Aquário para o dia 14: Finalize o ciclo com gratidão e prepare-se para novas possibilidades."
+    "2025-08-14": "Aquário para o dia 14: Finalize o ciclo com gratidão e prepare-se para novas possibilidades.",
   },
   "peixes": {
     "2025-06-24": "Peixes para o dia 24: Sensibilidade transborda compaixão hoje.",
@@ -614,7 +614,7 @@ window.horoscopoData =
     "2025-07-11": "Peixes para the dia 11: Encontre inspiração em histórias de superação.",
     "2025-07-12": "Peixes para the dia 12: Sua empatia constrói pontes entre corações.",
     "2025-07-13": "Peixes para the dia 13: Finalize um ciclo emocional com serenidade.",
-    "2025-07-14": "Peixes para the dia 14: Termine o período renovado e disposto a sonhar."
+    "2025-07-14": "Peixes para the dia 14: Termine o período renovado e disposto a sonhar.",
     "2025-07-15": "Peixes para o dia 15: Um sonho pode trazer uma mensagem importante — confie na sua intuição.",
     "2025-07-16": "Peixes para o dia 16: A sensibilidade estará à flor da pele — proteja sua energia.",
     "2025-07-17": "Peixes para o dia 17: Um gesto de empatia pode curar uma relação abalada.",
@@ -645,6 +645,6 @@ window.horoscopoData =
     "2025-08-11": "Peixes para o dia 11: A empatia será sua maior força — compartilhe-a.",
     "2025-08-12": "Peixes para o dia 12: Um sonho pode inspirar uma nova direção.",
     "2025-08-13": "Peixes para o dia 13: Evite o excesso de estímulos — o silêncio será precioso.",
-    "2025-08-14": "Peixes para o dia 14: Finalize o ciclo com gratidão e prepare-se para recomeçar com leveza."
+    "2025-08-14": "Peixes para o dia 14: Finalize o ciclo com gratidão e prepare-se para recomeçar com leveza.",
   }
 }
