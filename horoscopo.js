@@ -490,7 +490,7 @@ window.horoscopoData =
     "2025-12-26": "Escorpião para o dia 26: A Lua em Gêmeos favorece comunicação; escolha palavras suaves.",
     "2025-12-27": "Escorpião para o dia 27: O céu pede paciência; não se precipite em julgamentos.",
     "2025-12-28": "Escorpião para o dia 28: A energia favorece criatividade; canalize intensidade em projetos.",
-    "2025-12-29": "Escorpião para o dia 29: O dia pede equilíbrio emocional; pratique serenidade."
+    "2025-12-29": "Escorpião para o dia 29: O dia pede equilíbrio emocional; pratique serenidade.",
     "2025-12-30": "Escorpião para o dia 30: A Lua em Câncer desperta emoções fortes; pratique o acolhimento em vez da reatividade.",
     "2025-12-31": "Escorpião para o dia 31: Encerrar o ano com serenidade será sua vitória; transforme a impaciência em gratidão.",
     "2026-01-01": "Escorpião para o dia 01: Início de ano pede calma; não deixe a ansiedade atropelar seus novos planos.",
